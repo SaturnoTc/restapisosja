@@ -1,0 +1,99 @@
+{
+  "Numbers": [
+    {
+      "name": "Corpo de Bombeiros",
+      "phone": "193",
+      "description": "As consequências da maioria dos acidentes domésticos ou na rua podem ser amenizadas com o socorro imediato do Corpo de Bombeiros. O Disque Bombeiros atende a incêndios, acidentes com animais, vazamentos de gás, produtos químico e causas naturais como alagamento e queimadas. Confira aqui um caso de atuação do Corpo de Bombeiros em vistoria por Brasília.",
+      "id": 1,
+      "quandoUsar": "Incêndios em residências, empresas, estruturas e em vegetação. Acidentes de trânsito com vítimas. Afogamentos. Acidentes domésticos (queimaduras, intoxicação, explosões e ferimentos em geral). Quedas de plano elevado ou de mesmo nível que resultem em lesões. Busca de pessoas. Salvamento em ambientes hostis. Lesões provenientes de agressão e ataques de animais. Ferimentos por arma de fogo e objetos cortantes/perfurantes. Emergências com produtos perigosos e combustíveis. Desabamentos, soterramentos e deslizamentos. Emergências resultantes de vendavais, enchentes, temporais e chuvas de granizo."
+    },
+    {
+      "name": "Polícia Militar",
+      "phone": "190",
+      "description": "O 190 é um serviço de emergência  da Polícia Militar que atende aos cidadãos em casos de riscos, ameaças contra a vida, denúncias de roubos, atentados e proteção pública. Pode ser acionado de telefones fixos e celulares.",
+      "id": 2,
+      "quandoUsar": "quando está ocorrendo ou acabou de ocorrer um crime; quando a integridade física do cidadão ou o patrimônio (veículos, imóvel, objetos pessoais etc) estiver em risco; no atendimento a acidentes de trânsito com pessoas feridas ou com crimes de trânsito; quando houver atividade suspeita com pessoa ou veículo que possa estar envolvido em crime; em situações graves que necessitem de intervenção imediata da Polícia Militar."
+    },
+    {
+      "name": "Polícia Rodoviária Federal",
+      "phone": "191",
+      "description": "As atribuições da Polícia Rodoviária Federal são definidas pelo Código de Trânsito Brasileiro (polícia de trânsito). Fiscaliza diariamente rodovias e estradas federais para exercício do direito de locomoção de veículos.",
+      "id": 3,
+      "quandoUsar": "A Polícia Rodoviária Federal (PRF) atende os acidentes de trânsito ocorridos em rodovias federais (BRs). Ao se deparar ou se envolver numa ocorrência desta natureza: Entre em contato com a PRF por telefone pelo número de emergência 191 ou presencialmente em qualquer Unidade Operacional e com as equipes de ronda."
+    },
+    {
+      "name": "Defesa Civil",
+      "phone": "199",
+      "description": "A Defesa Civil é responsável em precaver, socorrer, assistir e ajudar na recuperação da população em caso de desastres, sejam chuvas ou outras situações de risco.",
+      "id": 5,
+      "quandoUsar": "Acidentes rodoviários, ferroviários, metroviários, envolvendo grande número de pessoas; Inundações; Grandes incêndios, com vítimas; Acidentes com combustíveis, produtos perigosos (radioativos, químicos, inflamáveis, tóxicos, explosivos e corrosivos);"
+    },
+    {
+      "name": "SAMU",
+      "phone": "192",
+      "description": "O SAMU é o serviço médico brasileiro utilizado em caso de emergências médicas. Para utilizá-lo, basta ligar para 192 e explicar o tipo de emergência para acionar o serviço.",
+      "id": 6,
+      "quandoUsar": "Acidentes / traumas com vítimas; Choque elétrico; Falta de ar intensa; Suspeita de Infarto ou AVC (alteração súbita na fala, perda de força em um lado do corpo e desvio da comissura labial são os sintomas mais comuns); Afogamentos e engasgo; Intoxicação ou queimaduras graves; Trabalhos de parto em que haja risco de morte para a mãe e para o feto; Tentativas de suicídio; Urgências psiquiátricas; Vítima inconsciente; Em casos de intoxicação exógena ou envenenamento; Na ocorrência de maus tratos; Crises hipertensivas; dores no peito de aparecimento súbito; Acidentes com produtos perigosos; Agressão por arma de fogo ou arma branca; Soterramento, Desabamento; Crises Convulsivas; Na transferência inter-hospitalar de doentes graves; Outras situações consideradas de urgência ou emergência, com risco de morte, sequela ou sofrimento intenso."
+    },
+    {
+      "name": "Atendimento a Mulher",
+      "phone": "180",
+      "description": "O número 180 foi criado para dar mais informações sobre direitos femininos e apoio psicológico à mulheres em situação de violência, além de receber denúncias específicas sobre cárcere privado e tráfico de mulheres. Segundo Portal Brasil, até o final de 2013, o serviço deverá ser ampliado e funcionar também como um disque-denúncia. Leia mais sobre ações de proteção aos direitos dada Mulher.",
+      "id": 7,
+      "quandoUsar": "Diante de qualquer situação que configure violência doméstica, a mulher deve registrar a ocorrência em uma delegacia de polícia, preferencialmente nas Delegacias Especiais de Atendimento à Mulher – DEAM, que funciona 24 horas por dia, todos os dias."
+    },
+    {
+      "name": "Ibama",
+      "phone": "0800 061 8080",
+      "description": "O Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama) é uma autarquia federal dotada de personalidade jurídica de direito público, autonomia administrativa e financeira, vinculada ao Ministério do Meio Ambiente (MMA), conforme Art. 2º da Lei nº 7.735, de 22 de fevereiro de 1989",
+      "id": 8,
+      "quandoUsar": "Cuidados especializados ampliam as chances de retorno à natureza de animais silvestres encontrados em áreas ocupadas pelos seres humanos. No Estado de São Paulo, a Secretaria do Meio Ambiente conduz a gestão da fauna e orienta quem entra em contato com os bichos, que buscam, muitas vezes, locais de reprodução e alimentação."
+    },
+    {
+      "name": "Direitos Humanos",
+      "phone": "100",
+      "description": "Criado em 1997, com o nome de Disque Denúncia Nacional de Denúncia contra Abuso e Exploração de Crianças e Adolescentes, ele inicialmente foi uma iniciativa de organizações não governamentais para mensurar violências voltadas a essa população e agir contra elas.",
+      "id": 9,
+      "quandoUsar": "Abuso e Exploração de Crianças e Adolescentes, ou qualquer outra infração que viole os direitos dos seres humanos"
+    },
+    {
+      "phone": "185",
+      "name": "Salvamar",
+      "description": "O Salvamar Nordeste é o órgão da Marinha do Brasil responsável por coordenar a salvaguarda da vida humana no mar próximo à costa da Região Nordeste, abrangendo cerca de 1.575.000 milhas náuticas quadradas. Está sediado em Natal, no Rio Grande do Norte.",
+      "id": 10,
+      "quandoUsar": "Embarcação à deriva, por perda de propulsão (embarcação a motor) ou por quebra de mastro (barco a vela), necessitando de apoio aos tripulantes ou mesmo resgate; Naufrágio de embarcação, com tripulação desembarcada para balsas salva-vidas ou caída no mar; Pessoas caídas n’água – emergência comumente chamada de “homem ao mar”; Pessoas que adoecem a bordo, necessitando de orientação médica para tratamento ou, até mesmo, de resgate para encaminhamento/tratamento em hospital em terra (evacuação médica); Embarcações desaparecidas, dentre outras."
+    }
+  ],
+  "Socorros": [
+    {
+      "name": "Parada Cardiaca",
+      "instructions": "Chamar uma ambulância, ligando para o 192; Avaliar se a pessoa está respirando, colocando o rosto perto do nariz e da boca para ouvir os sons da respiração e, ao mesmo tempo, olhando para o peito, para observar se está subindo e descendo: Se houver respiração: colocar a pessoa em posição lateral de segurança, esperar a chegada da ajuda médica e ir verificando regularmente a respiração; Se não houver respiração: virar a pessoa de barriga para cima numa superfície dura e iniciar a massagem cardíaca. Para fazer a massagem cardíaca: Colocar as duas mãos no centro do peito com os dedos entrelaçados, no ponto médio entre os mamilos; Fazer compressões mantendo os braços esticados e empurrando o peito para baixo até que as costelas desçam cerca de 5 cm; Manter as compressões até a chegada da ajuda médica num ritmo de 2 compressões por segundo.",
+      "id": 1
+    },
+    {
+      "name": "Parada Respiratoria",
+      "instructions": "Deitar a pessoa de costas, em um lugar reto e afrouxar as roupas. Retirar objetos da boca ou garganta, que dificultem a entrada de ar. Não dar tapinhas no rosto. Se estiver sangrando ou vomitando, colocar a pessoa deitada de lado, para ela não se afogar. Fechar as narinas da pessoa com o polegar e o indicador para o ar não sair, colocar a boca na boca da vítima e com firmeza soprar até notar que o peito está levantando. Deixar que o ar saia naturalmente. Repetir este procedimento quantas vezes forem necessárias.",
+      "id": 2
+    },
+    {
+      "name": "Engasgos",
+      "instructions": "Na maior parte das vezes, o engasgamento é leve e, por isso, nesses casos é aconselhado:  Pedir para a pessoa tossir 5 vezes com força; Bater 5 vezes no meio das costas, mantendo a mão aberta e num movimento rápido de baixo para cima. Porém, se isso não funcionar, ou se o engasgamento for mais grave, como o que acontece ao comer alimentos moles como carne ou pão, deve-se iniciar imediatamente a manobra de Heimlich, que consiste em:  Ficar de pé atrás da vítima, que também deve estar de pé; Passar os braços à volta do tronco da pessoa; Cerrar o punho da mão que tem mais força e colocá-la, com o nó do polegar, sobre a boca do estômago da vítima, que fica entre as costelas; Colocar a outra mão sobre a mão que tem o punho cerrado; Fazer pressão com as mãos contra o estômago da pessoa, para dentro e para cima, como se fosse desenhar uma vírgula.",
+      "id": 3
+    },
+    {
+      "name": "Queimaduras",
+      "instructions": "Queimadura de 1º grau: Colocar a região queimada debaixo de água fria por, pelo menos, 15 minutos; Manter um pano limpo e umedecido em água fria na região durante as primeiras 24 horas, trocando sempre que a água aquecer; Não aplicar qualquer produto, como óleo ou manteiga, na queimadura; Passar uma pomada hidratante ou cicatrizante para queimaduras, como Nebacetin ou Unguento. Queimadura de 2º grau: Colocar o local afetado debaixo de água corrente fria por, pelo menos, 15 minutos; Lavar cuidadosamente a queimadura com água fria e sabão de pH neutro, evitando esfregar com muita força; Cobrir a região com uma gaze molhada ou com bastante vaselina, e prender com uma ligadura, durante as primeiras 48 horas, trocando sempre que necessário; Não furar as bolhas e não aplicar qualquer produto no local, para evitar o risco de infecção; Procurar ajuda médica se a bolha for muito grande. Queimadura de 3º grau: Chamar imediatamente uma ambulância, ligando para o 192 ou leve a pessoa rapidamente para o hospital; Esfriar a região queimada com soro fisiológico, ou na sua falta, água da torneira, por cerca de 10 minutos; Colocar cuidadosamente uma gaze esterilizada umedecida em soro fisiológico ou um pano limpo sobre a região afetada, até a chegada da ajuda médica. Caso a região queimada seja muito grande, pode-se enrolar um lençol limpo umedecido em soro fisiológico e que não largue pelos; Não colocar nenhum tipo de produto na região afetada. Em alguns casos, a queimadura de 3º grau pode ser tão grave que provoca falha em vários órgãos. Nestes casos, caso a vítima desmaie e deixe de respirar deve-se iniciar a massagem cardíaca.",
+      "id": 4
+    },
+    {
+      "name": "Fraturas",
+      "instructions": "Em caso de suspeita de fratura, que é quando o osso se parte provocando dor, incapacidade de movimentos, inchaço e, algumas vezes, deformidade, é muito importante manter a calma, observar se há outros ferimentos mais graves, como sangramentos, e chamar o serviço de emergência móvel (SAMU 192).  Em seguida, é possível realizar os primeiros socorros à vítima, que devem seguir as seguintes etapas:  Manter o membro afetado em repouso, numa posição natural e confortável; Imobilizar as articulações que ficam acima e abaixo da lesão, com o uso de talas, como mostra as imagens. Não havendo talas disponíveis, é possível improvisar com pedaços de papelão, revistas ou jornais dobrados ou pedaços de madeira, que devem ser acolchoadas com panos limpos e amarrados ao redor da articulação; Nunca tentar endireitar uma fratura ou colocar o osso no lugar; Em caso de fratura exposta, deve-se cobrir o ferimento, de preferência com gaze esterilizada ou um pano limpo. Se houver um sangramento muito intenso, é necessário fazer compressão acima da região fraturada para tentar impedir a saída do sangue. Saiba mais detalhes dos primeiros socorros em caso de fratura exposta; Aguardar o auxílio médico. Caso não seja possível, recomenda-se levar a vítima para o pronto-socorro mais próximo. A fratura ocorre quando o osso se quebra devido a algum impacto maior do que o osso pode suportar. Com o envelhecimento e com determinadas doenças ósseas, como a osteoporose, o risco de fraturas aumenta, podendo surgir mesmo com movimentos ou impactos menores, sendo necessário um maior cuidado para evitar acidentes.",
+      "id": 5
+    },
+    {
+      "name": "Cortes",
+      "instructions": "Primeiros socorros em cortes superficiais  1. A primeira coisa a ser feita é ter certeza de que a ferida não é grave. Em seguida deve-se lavar as mãos com água e sabão;  2. Lave a ferida com muito cuidado com água e sabão. Certifique-se de que o local ficou bem limpo e livre de partículas que poderiam causar infecção;  3. Aplique um anti-séptico e seque o local em volta da ferida;  4. De acordo com a lesão, coloque uma gaze ou pano limpo para cobrir o ferimento. Não use algodão, pois as fibras do material podem colar na ferida, provocando novamente sangramento ao retirar o curativo;  5. Mantenha o corte limpo e seco para facilitar a cicatrização.  Primeiros socorros em cortes profundos  1. É preciso manter a calma e controlar a hemorragia imediatamente;  2. Pressione uma gaze ou pano limpo sobre o corte. Se ele não for tão profundo, o sangramento deve parar em alguns minutos. Em seguida lave a ferida com água e sabão;  3. Caso a água não seja suficiente para remover a sujidade do corte, use uma gaze para retirar as partículas que ficaram coladas dentro do machucado;  4. Se houver um pedaço de cristal ou outro objeto cravado no corte não tente retirá-lo, pode provocar uma hemorragia maior;  5. Em casos de sangramento intenso, uma boa dica é elevar o membro para reduzir o fluxo de sangue;  6. Com a compressa de gaze contendo o sangramento, o médico deverá ser consultado imediatamente para avaliar o corte e realizar uma sutura;  7. Após a sutura, os curativos devem ser realizados para que a cicatrização seja eficaz.  Dicas de cuidados gerais  Jamais coloque álcool, pomadas e outros produtos sobre o ferimento. Somente lave com água e sabão; Não assopre o ferimento para não contaminar o local; Procure ajuda médica se surgirem sinais de infecção na região do corte; Não use algodão para estancar o sangue, porque as fibras grudam na ferida e são difíceis de serem retiradas.",
+      "id": 6
+    }
+  ]
+}
