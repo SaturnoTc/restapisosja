@@ -1,17 +1,25 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "json fake",
   "main": "index.js",
   "scripts": {
     "start": "json-server --watch db.json"
   },
   "keywords": [],
-  "author": "",
+  "author": "Saturno",
   "license": "ISC",
   "dependencies": {
     "git": "^0.1.5",
     "git-clone": "^0.2.0",
     "json-server": "^0.16.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sosja/restapisosja.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sosja/restapisosja/issues"
+  },
+  "homepage": "https://github.com/sosja/restapisosja#readme"
 }
